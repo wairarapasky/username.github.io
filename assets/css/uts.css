@@ -1,0 +1,19 @@
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family: 'Fjalla One', sans-serif}
+
+.text-yellow{color: #fad549}
+
+footer a{text-decoration: none !important; color: #6c757d !important}
+footer a:hover{color: #f4952a !important}
+.text-dark-link{text-decoration: none !important; color: #6c757d !important}
+.text-dark-link:hover{color: #f4952a !important}
+
+blockquote>p:before{content:none !important}.blockquote>p:after{content:none !important}
+
+.dropdown-item{
+font-family: Lato,sans-serif;
+font-size: .75rem;
+font-weight: 700;
+letter-spacing: .05em;
+text-transform: uppercase;
+transition: color .1s;
+}

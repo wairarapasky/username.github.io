@@ -1,0 +1,52 @@
+[
+    {
+        "label": "The Sun",
+        "AU": "0",
+        "fact": "It takes 8.5 minutes for the light to get to Earth from The Sun."
+    },
+    {
+        "label": "Mercury",
+        "AU": "0.4",
+        "fact": "One year on Mercury is 88 earth days."
+    },
+    {
+        "label": "Venus",
+        "AU": "0.7",
+        "fact": "Venus is the only planet with its day longer than a year."
+    },
+    {
+        "label": "Earth",
+        "AU": "1",
+        "fact": "We live here!"
+    },
+    {
+        "label": "Mars",
+        "AU": "1.5",
+        "fact": "Mars is red because of all the iron in its rocks."
+    },
+    {
+        "label": "Jupiter",
+        "AU": "5.2",
+        "fact": "The stripes you see are bands of clouds."
+    },
+    {
+        "label": "Saturn",
+        "AU": "9.6",
+        "fact": "Obvious because of its classic rings."
+    },
+    {
+        "label": "Uranus",
+        "AU": "19.2",
+        "fact": "Uranus spins sideways!"
+    },
+    {
+        "label": "Neptune",
+        "AU": "30",
+        "fact": "It rains diamonds on Neptune!"
+    },
+    {
+        "label": "Pluto",
+        "AU": "39",
+        "fact": "You can tell by it's heart shaped feature."
+    }
+]
