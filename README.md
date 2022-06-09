@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Wairarapa Sky
 
 You can use the [editor on GitHub](https://github.com/wairarapasky/username.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
